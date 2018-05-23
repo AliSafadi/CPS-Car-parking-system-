@@ -1,5 +1,5 @@
 # CPS-Car-parking-system-
-# SoftwareEngineeringProject
+
 Car parking system, is a software engineering project tha managing and operating parking lots in the city, including several permissions, Client, System worker, Customer service, parking lot director and administrator.
 
 Client side using JavaFX.
